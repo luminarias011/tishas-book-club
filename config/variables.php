@@ -1,0 +1,27 @@
+<?php
+// Variables
+return [
+  "creatorName" => "Marco Luminarias",
+  "creatorUrl" => "https://www.facebook.com/ItsmE.6/",
+  "templateName" => "Tisha's Book Club Management System",
+  "templateDescription" => "Book Club Management System",
+  "templateKeyword" => "Book club, Database, Book club management system, Management",
+  "templateLogo" => "{{ asset('images/logo/logo_transparent.png') }}",
+  "templateNavLogo" => "{{ asset('assets/logo/navlogo_transparent.png') }}",
+  "licenseUrl" => "https://themeselection.com/license/",
+  "livePreview" => "/",
+  "booksPage" => "dash2",
+  "managePage" => "manage",
+  "noPage" => "#",
+  "productPage" => "https://www.facebook.com/ticoyskananan",
+  "support" => "https://github.com/themeselection/sneat-html-laravel-admin-template-free/issues",
+  "moreThemes" => "https://themeselection.com/",
+  "documentation" => "https://themeselection.com/demo/sneat-bootstrap-html-admin-template/documentation/laravel-introduction.html",
+  "repository" => "https://github.com/themeselection/sneat-html-laravel-admin-template-free",
+  "facebookUrl" => "https://www.facebook.com/ThemeSelections/",
+  "twitterUrl" => "https://twitter.com/Theme_Selection",
+  "githubUrl" => "https://github.com/themeselection",
+  "dribbbleUrl" => "https://dribbble.com/themeselection",
+  "instagramUrl" => "https://www.instagram.com/themeselection/",
+  "addressMap" => "https://www.google.com/maps/place/Davao+City,+Davao+del+Sur/@7.2533647,125.4510723,10z/data=!3m1!4b1!4m6!3m5!1s0x32f96d9f519e327f:0xb53a24589f79c573!8m2!3d7.190708!4d125.455341!16zL20vMDJnbjF4?entry=ttu",
+];
