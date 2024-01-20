@@ -170,7 +170,7 @@
 
     <div class="col-lg-3 ">
         <h3></h3>
-        <div class="accordion" id="accordionExample">1
+        <div class="accordion" id="accordionExample">
             <div class="card accordion-item active mb-3">
                 <h2 class="accordion-header" id="headingOne">
                     <button type="button" class="accordion-button" data-bs-toggle="collapse"
