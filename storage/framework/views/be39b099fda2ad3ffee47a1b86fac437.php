@@ -1,0 +1,26 @@
+<!-- laravel style -->
+<script src="<?php echo e(asset('assets/vendor/js/helpers.js')); ?>"></script>
+
+<!--? Config:  Mandatory theme config file contain global vars & default theme options, Set your preferred theme option in this file.  -->
+<script src="<?php echo e(asset('assets/js/config.js')); ?>"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<!-- beautify ignore:end -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="async" src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID');
+
+</script>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+<?php /**PATH C:\laragon\www\tishas-book-club\resources\views/layouts/sections/masterIncludes/scriptsIncludes.blade.php ENDPATH**/ ?>
